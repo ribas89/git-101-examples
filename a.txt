@@ -1,2 +1,3 @@
 this is file a
 next I add a fix in feature A
+this is another fix in feature A
